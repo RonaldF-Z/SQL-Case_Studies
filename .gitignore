@@ -2,6 +2,5 @@ venv/
 .env
 q&a.txt
 test.sql
-README.md
 *.sql
 q&a*

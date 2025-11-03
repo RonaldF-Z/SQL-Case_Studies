@@ -3,7 +3,7 @@
 
 ## <p align="center">Notes
 - ##### Case study's data and questions were extracted from this link: [here](https://8weeksqlchallenge.com/case-study-2/). 
-- ##### All questions were solved using MSSQL Server and PostgreSQL
+- ##### All questions were solved using [MSSQL Server](#mssql) and [PostgreSQL](#postgresql)
 
 ## <p align="center">Introduction
 Did you know that over 115 million kilograms of pizza is consumed daily worldwide??? (Well according to Wikipedia anyway…)
