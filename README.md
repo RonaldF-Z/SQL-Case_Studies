@@ -1,0 +1,18 @@
+# <p align="center"> SQL Skills
+Los casos de estudios tienen su respectivo derecho de autor, cada uno tiene su url el cual redirige a toda la información, tablas, datos e imágenes que fueron extraidos para realizar soluciones óptimas y certeras <strong>(Algunas preguntas pueden tener 2 soluciones o un método más simple y entendible)</strong>>
+
+## Considerar que:
+- Hasta el momento, los casos de estudio 1 y 2 fueron solucionados usando MSSQL Server y PostgreSQL, los demás solo en MSSQL.
+- Cada caso de estudio tiene su archivo data.txt en la carpeta "resources", el cual la mayoria consta de una query en SQL para insertar todas las tablas y datos necesarios para poder solucionar sus respectivas preguntas.
+
+## Tabla de Contenido:
+1. [Danny's Dinner](https://github.com/RonaldF-Z/SQL-Case_Studies/blob/main/8WeeksSQLChallenge/1%20-%20Danny's%20Diner/Danny's%20Dinner.md)
+2. [Pizza Runner](https://github.com/RonaldF-Z/SQL-Case_Studies/blob/main/8WeeksSQLChallenge/2%20-%20Pizza%20Runner/Pizza%20runner.md)
+3. [Foodie-Fi](https://github.com/RonaldF-Z/SQL-Case_Studies/blob/main/8WeeksSQLChallenge/3%20-%20Foodie-Fi/Foodie-Fi.md)
+4. [Data Bank](https://github.com/RonaldF-Z/SQL-Case_Studies/blob/main/8WeeksSQLChallenge/4%20-%20Data%20Bank/Data%20Bank.md)
+5. [Data Mart](https://github.com/RonaldF-Z/SQL-Case_Studies/blob/main/8WeeksSQLChallenge/5%20-%20Data%20Mart/Data%20Mart.md)
+6. [Clique Bait](https://github.com/RonaldF-Z/SQL-Case_Studies/blob/main/8WeeksSQLChallenge/6%20-%20Clique%20Bait/Clique%20Bait.md)
+7. [Balanced Tree Clothing Co](https://github.com/RonaldF-Z/SQL-Case_Studies/blob/main/8WeeksSQLChallenge/7%20-%20Balanced%20Tree%20Clothing%20Co/Balanced%20Tree%20Clothing%20Co.md)
+8. [Fresh Segments](https://github.com/RonaldF-Z/SQL-Case_Studies/blob/main/8WeeksSQLChallenge/8%20-%20Fresh%20Segments/Fresh%20Segments.md)
+9. [Bike Rental Shop](https://github.com/RonaldF-Z/SQL-Case_Studies/blob/main/Bike%20Rental%20Shop/Bike%20Rental%20Shop.md)
+10. [Famous Paintings](https://github.com/RonaldF-Z/SQL-Case_Studies/blob/main/Famous%20Paintings/Famous%20Paintings.md)
