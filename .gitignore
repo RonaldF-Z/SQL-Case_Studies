@@ -1,0 +1,7 @@
+venv/
+.env
+q&a.txt
+test.sql
+*.md
+*.sql
+q&a*
